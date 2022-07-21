@@ -4,6 +4,7 @@
 
 <img src="https://www.ikiam.edu.ec/img/logo-ikiam-grey.png" width=400 height=300 />
 *Crear el cuaderno de .Crear un Júpiter Notebook t7_iris.ipynb.
+
 ## Nombre:Edison Gonzales 
 
 *Cargue la data "iris.csv"
